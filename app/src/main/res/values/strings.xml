@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Free Fire Classic</string>
+    <string name="lobby_title">FREE FIRE CLASSIC</string>
+    <string name="lobby_subtitle">Unlimited Nostalgia Edition • Bermuda 60FPS</string>
+    <string name="start_battleground">START BATTLEGROUND</string>
+    <string name="vault_collection">UNLIMITED VAULT 🔥</string>
+    <string name="characters_roster">CHARACTERS &amp; SKILLS</string>
+    <string name="texture_settings">TEXTURE &amp; SMOOTH ENGINE</string>
+    <string name="booyah_title">BOOYAH!</string>
+    <string name="victory_subtitle">#1 SURVIVOR • CHAMPION</string>
+    <string name="defeat_title">ELIMINATED</string>
+    <string name="back_to_lobby">BACK TO LOBBY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="gloo_wall_btn">GLOO WALL</string>
+    <string name="medkit_btn">MEDKIT</string>
+    <string name="alok_skill_btn">DROP THE BEAT</string>
+    <string name="chrono_skill_btn">TIME TURNER</string>
+    <string name="sprint_btn">SPRINT</string>
+    <string name="crouch_btn">CROUCH</string>
+    <string name="fire_btn">FIRE</string>
+    <string name="scope_btn">SCOPE</string>
+    <string name="reload_btn">RELOAD</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Classic",
+  "description": "Battleground action game with unlimited classic collection, characters, weapons, maps, smooth 60FPS combat simulation, and nostalgic retro textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
